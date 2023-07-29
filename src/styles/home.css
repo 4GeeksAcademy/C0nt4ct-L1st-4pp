@@ -1,6 +1,6 @@
 :root {
     font-size: 20px;
-  }
+}
 
 body {
     font: 1.1em/1.618 Inter, sans-serif;
@@ -12,9 +12,9 @@ body {
     min-height: 100vh;
     padding: 30px;
 
-    color: #224;
+    color: rgb(255, 0, 119);
     background:
-        url(https://source.unsplash.com/E8Ufcyxz514/2400x1823) center / cover no-repeat fixed;
+        url(https://cdn.pixabay.com/photo/2023/07/21/22/49/sunflower-bud-8142430_1280.jpg) center / cover no-repeat fixed;
 }
 
 p {
@@ -27,7 +27,7 @@ img {
 }
 
 i {
-    color: gray;
+    color: rgb(5, 6, 85);
     position: relative;
     top: 5px;
 }

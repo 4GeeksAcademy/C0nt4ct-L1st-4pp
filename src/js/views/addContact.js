@@ -25,7 +25,7 @@ function AddContact() {
 
     return (
         <div className="container mt-3">
-            <h1 className="text-center">Add a New Contact</h1>
+            <h1 className="text-center" >Add a New Contact</h1>
             <form onSubmit={handleSubmit}>
                 <div className="form-group mb-3">
                     <label htmlFor="inputName">Full Name</label>
@@ -71,7 +71,7 @@ function AddContact() {
                         onChange={(e) => setNewContact({ ...newContact, homeAddress: e.target.value })}
                     ></textarea>
                 </div>
-                <button type="submit" className="btn btn-primary">Save</button>
+                <button type="submit" className="btn btn-secondary">Save</button>
             </form>
             <Link to="/">
                 <small>or get back to contacts</small>

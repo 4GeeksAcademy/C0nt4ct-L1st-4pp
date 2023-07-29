@@ -17,31 +17,31 @@ const getState = ({ getStore, getActions, setStore }) => {
 			contacts: [
 				{
 					id: 1,
-					name: "John St Cloud",
-					homeAddress: "1905 Snowhite St.",
-					phone: "(305) 476-2006",
-					email: "johnst@exampleemail.com"
+					name: "Tessa St Anger",
+					homeAddress: "666 Snowhite St.",
+					phone: "(49) 326-9674",
+					email: "Tessa@bemal.de"
 				},
 				{
 					id: 2,
-					name: "Jane Doe",
-					homeAddress: "4545 NW 36th St.",
-					phone: "(780) 345-1001",
-					email: "missjdoe@exampleemail.com"
+					name: "Cindy Becker",
+					homeAddress: "0109 NW 25th St.",
+					phone: "(49) 785-3684",
+					email: "MissCindy@bemal.de"
 				},
 				{
 					id: 3,
-					name: "John Deer",
-					homeAddress: "7383 SW 1st St.",
-					phone: "(805) 451-1331",
-					email: "johndeer@exampleemail.com"
+					name: "Mannon Vezu",
+					homeAddress: "3366 SW 1st St.",
+					phone: "(49) 358-1235",
+					email: "MannonVeZu@bemal.de"
 				},
 				{
 					id: 4,
-					name: "James Shakespeare",
-					homeAddress: "23 SW 45th Ave.",
-					phone: "(205) 345-1311",
-					email: "literature@exampleemail.com"
+					name: "Jameson Funf",
+					homeAddress: "66 SW 33th Ave.",
+					phone: "(49) 321-5539",
+					email: "Jameson5@bemal.de"
 				},
 			]
 		},
